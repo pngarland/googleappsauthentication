@@ -1,4 +1,6 @@
-This is a MediaWiki extension that adds Google Apps authentication, and includes all necessary code.  Many thanks to: Bertrand Gorge for creating the plugin, and Constantin Bosneaga for creating the PHP OpenID library.  See below links for more info - 
+This is a MediaWiki extension that adds Google Apps authentication and a php library that allows authentication with Google Apps. I have fixed a small issue that prevented this from working immediately.  Many thanks to: Bertrand Gorge for creating the plugin, and Constantin Bosneaga for creating the php OpenID library.  
+
+See below links for more info - 
 
 http://www.mediawiki.org/wiki/Extension:GoogleAppsAuthentification
 http://a32.me/2011/03/google-apps-as-single-authentication-point-for-your-corporate-applications/

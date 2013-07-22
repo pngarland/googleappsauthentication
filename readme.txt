@@ -9,7 +9,7 @@ Instructions:
 
 2. Add the below code to the bottom of LocalSettings.php in root MediaWiki installation directory, filling in the name of your domain:
 
-# ============================================= Google Apps Authentication =============================================
+# ============ Google Apps Authentication ===========
 
 # Make sure nobody can see/edit anything if not logged in:
 $wgGroupPermissions['*']['edit'] = false;
